@@ -1,9 +1,7 @@
 ---
 # Display name
-title: 吳健雄
+title: Sadia Anjum Opi
 
-# Name pronunciation (optional)
-name_pronunciation: Sadia Anjum Opi
 
 # Full name (for SEO)
 first_name: Sadia Anjum 
