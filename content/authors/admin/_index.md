@@ -71,7 +71,7 @@ education:
   - area: SSC in Science
     institution: Barnamala Adarsha High School & College
     date_start: 2016-01-01
-    date_end: 2018-04-31
+    date_end: 2018-04-30
     summary: |
       GPA: 5.0/5.0
       
