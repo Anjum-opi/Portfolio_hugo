@@ -44,8 +44,8 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Web Development
+  - Hardware & Electronics
 
 education:
   - area: BSc in Computer Science and Engineering
@@ -93,10 +93,9 @@ work:
     date_end: 2024-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Developing and deploying IoT solutions integrating sensors, devices, and cloud platforms.
+      - Designing efficient communication protocols for IoT devices.
+      - Implementing data collection, processing, and visualization for IoT systems.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -106,7 +105,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: 
+      - name: Internet of Things
         description: ''
         percent: 100
         icon: chart-bar
