@@ -122,10 +122,10 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Travel
         description: ''
         percent: 100
-        icon: cat
+        icon: vehicles
       - name: Photography
         description: ''
         percent: 80
@@ -168,4 +168,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+ I am Sadia Anjum Opi, a passionate Computer Science and Engineering student at Jahangirnagar University, Savar, Dhaka. Currently in my 3rd year, 1st semester, I am eager to expand my knowledge and skills in programming, web development, IoT, and emerging technologies, with a goal to contribute to innovative solutions in the tech industry.
