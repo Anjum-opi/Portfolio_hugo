@@ -102,11 +102,11 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C/C++
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: 
         description: ''
         percent: 100
         icon: chart-bar
@@ -125,11 +125,11 @@ skills:
       - name: Travel
         description: ''
         percent: 100
-        icon: vehicles
-      - name: Photography
+        icon: fa-plane
+      - name: Explore New Things
         description: ''
         percent: 80
-        icon: camera
+        icon: fa-compass
 
 languages:
   - name: Bengali
