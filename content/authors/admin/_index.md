@@ -145,7 +145,8 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Free-Code-Camp Certificate
-    url: https://www.freecodecamp.org/certification/Opi_362/responsive-web-design
+    url: https://www.freecodecamp.org/Opi_362
+    certificate_url: https://www.freecodecamp.org/certification/Opi_362/responsive-web-design 
     date: '2024-11-04'
     awarder: freecodecamp
     icon: fire
