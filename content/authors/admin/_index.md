@@ -59,9 +59,9 @@ education:
       - C/C++ Programming Language
       - Data Structure
       - Algorithms
-      - Database Management
+      - Database Management System
       - Data & Telecommunication
-      - 
+      - Web Design(Front End)
   - area: HSC in Science
     institution: Shamsul Haque Khan College
     date_start: 2018-07-01
