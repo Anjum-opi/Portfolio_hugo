@@ -74,23 +74,23 @@ education:
       GPA: 5.0/5.0
       
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Front End Software Developer
+    company_name: Jahangirnagar University
+    company_url: 'https://juniv.edu/department/cse'
+    company_logo: 'https://images.app.goo.gl/4C67CAggoDLddL2r8'
+    date_start: 2024-07-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Developing responsive, user-friendly web interfaces using HTML, CSS, and JavaScript.
+      - Optimize front-end functionality for various devices and screen sizes.
+      - Ensure cross-browser compatibility and maintain clean, reusable code.
+  - position: Internet of Things Developer
+    company_name: EDGE
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-07-01
+    date_end: 2024-12-31
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
