@@ -7,6 +7,6 @@ tags:
   - freecodecamp
 ---
 
-
+Flexible & easier way to learn HTML & CSS
 
 <!--more-->
