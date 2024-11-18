@@ -27,7 +27,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'anjumopi2020@gmail.com'
+    url: 'mailto:anjumopi2020@gmail.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Anjum-opi
