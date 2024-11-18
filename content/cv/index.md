@@ -14,26 +14,26 @@ A motivated and results-oriented Computer Science and Engineering student, speci
 ## *EDUCATION*
 
 *Bachelor of Science in Computer Science and Engineering*  
-- Institution : Jahangirnagar University  
-- Year        : 2021-present
+- *Institution* : Jahangirnagar University  
+- *Year*        : 2021-present
 
 *Higher Secondary School Certificate (HSC)*  
-- Institution : Shamsul Haque Khan College  
-- Year        : 2018–2020  
-- GPA         : 5.0/5.0  
+- *Institution* : Shamsul Haque Khan College  
+- *Year*        : 2018–2020  
+- *GPA*         : 5.0/5.0  
 
 *Secondary School Certificate (SSC)*  
-- Institution : Barnamala Adarsha High School & College 
-- Year        : 2016–2018  
-- GPA         : 5.0/5.0  
+- *Institution* : Barnamala Adarsha High School & College 
+- *Year*        : 2016–2018  
+- *GPA*         : 5.0/5.0  
 
 ## *EXPERIENCE*
 - *Private Tutoring*  
 Provided personalized academic support through private tuition, focusing on simplifying complex topics and fostering a deep understanding among students.
 
 ## *LANGUAGES*
-- Bangla  : Native
-- English : Fluent
+- *Bangla* : Native
+- *English*: Fluent
 
 ## *SKILLS*
 - C/C++ Programming Language 
@@ -44,8 +44,8 @@ Provided personalized academic support through private tuition, focusing on simp
 - Linux,Windows Operating System
 
 ## *CONTACT ME*
-- Phone     : +8801308699955 
-- Email     : anjumopi2020@gmail.com 
-- Address   : 811/3,South Dania,Jatrabari, Dhaka, Bangladesh
-- Linked-In : https://www.linkedin.com/in/sadia-anjum-opi-a51238329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- Github    : https://github.com/Anjum-opi
+- *Phone*     : +8801308699955 
+- *Email*     : anjumopi2020@gmail.com 
+- *Address*   : 811/3,South Dania,Jatrabari, Dhaka, Bangladesh
+- *Linked-In* : https://www.linkedin.com/in/sadia-anjum-opi-a51238329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- *Github*    : https://github.com/Anjum-opi
