@@ -1,13 +1,15 @@
 ---
 title: "Contact Information"
-layout: "contact" # Ensure your Hugo theme supports a contact layout or customize it
+layout: "contact" 
 ---
 
-Feel free to reach out to me via any of the following contact methods:
+Feel free to reach out to me without any hesitation:
 
 - Phone     : +8801308699955
   
 - Email     : anjumopi2020@gmail.com
+
+- Address   : 811/3,South Dania,Jatrabari,Dhaka-1236
 
 - GitHub    : https://github.com/Anjum-opi
 
