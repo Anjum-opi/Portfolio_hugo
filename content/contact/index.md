@@ -13,4 +13,4 @@ Feel free to reach out to me without any hesitation:
 
 - GitHub    : https://github.com/Anjum-opi
 
-- Linked-In :https://www.linkedin.com/in/sadia-anjum-opi-a51238329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Linked-In : https://www.linkedin.com/in/sadia-anjum-opi-a51238329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app

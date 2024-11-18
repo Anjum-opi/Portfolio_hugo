@@ -9,7 +9,7 @@ draft: false
 </div>
 
 ## *About*
-A motivated and results-oriented Computer Science and Engineering student, specializing in web design, AI, and computational graphics. Adept in multiple programming languages including C++ and C. Eager to apply my technical expertise and creativity in real-world projects while continuing to learn and grow.
+Currently studying in Computer Science & Engineering and passionate about web development,hardware & electronics.
 
 ## *EDUCATION*
 
