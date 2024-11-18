@@ -51,6 +51,14 @@
     
     <item>
       <title>Tribute Page</title>
+      <link>http://localhost:1313/project/c&#43;&#43;project/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/c&#43;&#43;project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tribute Page</title>
       <link>http://localhost:1313/project/tributepage/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/tributepage/</guid>
@@ -294,7 +302,7 @@
 
 
 
-&lt;div id=&#34;chart-674329158&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-967235184&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -312,7 +320,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-674329158&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-967235184&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
