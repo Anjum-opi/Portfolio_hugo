@@ -27,20 +27,16 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'anjumopi2020@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Anjum-opi
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url:https://www.linkedin.com/in/sadia-anjum-opi-a51238329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://juniv.edu/department/cse
 
 interests:
   - Artificial Intelligence
