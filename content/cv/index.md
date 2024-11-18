@@ -8,7 +8,7 @@ draft: false
   <img src="cvphoto.jpg" alt="Profile Picture" style="width:150px; height:150px; border-radius:50%; border: 2px solid #ccc;" />
 </div>
 
-## *PROFILE*
+## *About*
 A motivated and results-oriented Computer Science and Engineering student, specializing in web design, AI, and computational graphics. Adept in multiple programming languages including C++ and C. Eager to apply my technical expertise and creativity in real-world projects while continuing to learn and grow.
 
 ## *EDUCATION*
@@ -44,6 +44,8 @@ Provided personalized academic support through private tuition, focusing on simp
 - Linux,Windows Operating System
 
 ## *CONTACT ME*
-- *Phone*   : +8801308699955 
-- *Email*   : anjumopi2020@gmail.com 
-- *Address* : 811/3,South Dania,Jatrabari, Dhaka, Bangladesh
+- Phone     : +8801308699955 
+- Email     : anjumopi2020@gmail.com 
+- Address   : 811/3,South Dania,Jatrabari, Dhaka, Bangladesh
+- Linked-In : https://www.linkedin.com/in/sadia-anjum-opi-a51238329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Github    : https://github.com/Anjum-opi
