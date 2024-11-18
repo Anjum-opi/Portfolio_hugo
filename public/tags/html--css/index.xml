@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/html--css/</link>
       <atom:link href="http://localhost:1313/tags/html--css/index.xml" rel="self" type="application/rss+xml" />
     <description>HTML &amp; CSS</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>HTML &amp; CSS</title>
@@ -13,11 +13,35 @@
     </image>
     
     <item>
+      <title>Tribute Page</title>
+      <link>http://localhost:1313/project/productlandingpage/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/productlandingpage/</guid>
+      <description>&lt;p&gt;Flexible &amp;amp; easier way to learn HTML &amp;amp; CSS&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tribute Page</title>
+      <link>http://localhost:1313/project/tributepage/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tributepage/</guid>
+      <description>&lt;p&gt;Flexible &amp;amp; easier way to learn HTML &amp;amp; CSS&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Survey Form</title>
       <link>http://localhost:1313/project/surveyform/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/surveyform/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical Documentation Page</title>
+      <link>http://localhost:1313/project/technicaldocumentationpage/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/technicaldocumentationpage/</guid>
+      <description></description>
     </item>
     
   </channel>
