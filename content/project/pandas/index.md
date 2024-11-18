@@ -1,7 +1,7 @@
 ---
-title: Pandas
+title: Survey Form
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://anjum-opi.github.io/Survey-Form/
 tags:
   - Hugo
   - Wowchemy
