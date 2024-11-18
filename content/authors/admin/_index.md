@@ -32,7 +32,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/Anjum-opi
   - icon: brands/linkedin
-    url:https://www.linkedin.com/in/sadia-anjum-opi-a51238329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+    url: https://www.linkedin.com/in/sadia-anjum-opi-a51238329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
