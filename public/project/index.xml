@@ -25,7 +25,15 @@
       <link>http://localhost:1313/project/surveyform/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/surveyform/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical Documentation Page</title>
+      <link>http://localhost:1313/project/technicaldocumentationpage/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/technicaldocumentationpage/</guid>
+      <description></description>
     </item>
     
   </channel>
