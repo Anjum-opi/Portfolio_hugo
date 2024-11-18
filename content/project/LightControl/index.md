@@ -7,6 +7,6 @@ tags:
   - Arduino IDE
 ---
 
-Flexible & easier way to learn HTML & CSS
+
 
 <!--more-->
