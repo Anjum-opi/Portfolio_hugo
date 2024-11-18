@@ -70,6 +70,17 @@ education:
       GPA: 5.0/5.0
       
 work:
+  - position: Volunteer at NCPC(National Collegiate Programming Contest)
+    company_name: Jahangirnagar University
+    company_url: 'https://nordic.icpc.io/ncpc2023/'
+    company_logo: 'https://images.app.goo.gl/756V9KZyW5cs8o5f6'
+    date_start: 2024-02-09
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - Kit distribution & collaboration with others.
+      - Guiding participant when they need help.
+      - Perform post event duties.
   - position: Front End Software Developer
     company_name: Jahangirnagar University
     company_url: 'https://juniv.edu/department/cse'
