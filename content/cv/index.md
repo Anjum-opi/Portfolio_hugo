@@ -13,23 +13,26 @@ A motivated and results-oriented Computer Science and Engineering student, speci
 
 ## *EDUCATION*
 
-*Bachelor of Science in Computer Science and Engineering*  
-- Institution : Jahangirnagar University  
-- Year        : 2021-present
+- *Bachelor of Science in Computer Science and Engineering*  
+   Institution : Jahangirnagar University  
+   Year        : 2021-present
 
-*Higher Secondary School Certificate (HSC)*  
-- Institution : Shamsul Haque Khan College  
-- Year        : 2018–2020  
-- GPA         : 5.0/5.0  
+- *Higher Secondary School Certificate (HSC)*  
+   Institution : Shamsul Haque Khan College  
+   Year        : 2018–2020  
+   GPA         : 5.0/5.0  
 
-*Secondary School Certificate (SSC)*  
-- Institution : Barnamala Adarsha High School & College 
-- Year        : 2016–2018  
-- GPA         : 5.0/5.0  
+- *Secondary School Certificate (SSC)*  
+  Institution : Barnamala Adarsha High School & College 
+  Year        : 2016–2018  
+  GPA         : 5.0/5.0  
 
 ## *EXPERIENCE*
-- *Private Tutoring*  
-Provided personalized academic support through private tuition, focusing on simplifying complex topics and fostering a deep understanding among students.
+*Volunteer on NCPC(National Collegiate Programming Contest)*  
+ - Learned:
+      - Leadership
+      - Managing a program
+
 
 ## *LANGUAGES*
 - Bangla  : Native
