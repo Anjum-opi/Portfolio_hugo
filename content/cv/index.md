@@ -1,6 +1,6 @@
 ---
 title: "Curriculumn Vitae"
-date: 2024-11-17
+#date: 2024-11-17
 draft: false
 ---
 ## *PROFILE PICTURE*
@@ -43,7 +43,7 @@ Provided personalized academic support through private tuition, focusing on simp
 - Used tools to implement code -> VS code,Codeblocks,Github,Arduino IDE
 - Linux,Windows Operating System
 
-## *CONTACT ME*
+## *CONTACT INFO*
 - Phone     : +8801308699955 
 - Email     : anjumopi2020@gmail.com 
 - Address   : 811/3,South Dania,Jatrabari, Dhaka, Bangladesh
